@@ -1,0 +1,74 @@
+.logo {
+    width: 150px;
+    height: 65px;
+    margin-left: 100px;
+    /* margin-bottom: 10px; */
+}
+
+/* .logo-section{
+    border: 2px solid black;
+    margin-bottom: -50px;
+} */
+.Nav-Element {
+    color: #fff !important;
+    padding-right: 7.5rem !important;
+    padding-left: 5.5rem !important;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 900;
+    /* background-color: #fff; */
+}
+
+.navbar {
+    background-color: #00b8e6 !important;
+}
+
+.Help-Element {
+    /* background-color: #fff; */
+    padding-right: 7.5rem !important;
+    padding-left: 5.5rem !important;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 900;
+}
+
+.user-element {
+    font-weight: 900;
+    /* margin-left: 20px !important; */
+    /* margin-top: 100px; */
+    padding-left: 100px;
+    padding-top: 15px;
+}
+.cart{
+    padding-left: 100px !important;
+    padding-top: 15px;
+}
+.search{
+    padding-top: 15px !important;
+}
+.uper-nav {
+    /* padding-top: 10px; */
+    background-color: #ffffcc;
+}
+
+.pet-med-shop {
+    height: 100px;
+}
+
+.img-box {
+    /* background-color: aquamarine; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/* .user-box {
+    background-color: cyan; 
+    margin-left: 100px;
+    padding-left: 100px !important;
+}
+.cart-box{
+    background-color: darkorange;
+} */
+.search-box{
+    /* background-color: magenta; */
+    padding-top: 15px;   
+}

@@ -1,0 +1,23 @@
+/* .pet-shop{
+    background-color: aquamarine;
+    background-image: url("bg-img-2.jpg");
+} */
+.shop-pet-kennel{
+     margin-bottom: -50px;
+     padding-top: 40px;
+     padding-bottom: 40px;
+}
+.pet-shop-heading{
+    color:  #2600ff;
+}
+.kennel-btn{
+    text-decoration: none;
+    color: black;
+}
+.kennel-section{
+    padding-top: 40px;
+    margin-left: 50px;
+}
+.card-kennel{
+    background-color: azure;
+}

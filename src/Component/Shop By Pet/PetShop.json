@@ -1,0 +1,151 @@
+{
+    "PetShop": [
+        {
+            "PetshopName": "Dogs Kennel",
+            "Pet_Id": "Dog100",
+            "Pet_Desc": "A dog is the only thing on earth that loves you more than you love yourself.",
+            "PetShop_sub": [
+                {
+                    "SubShop_name": "Labrador",
+                    "SubShop_id": "Lab100",
+                    "SubShop_Price":"₹10,000",
+                    "SubShop_img": "../../../Image/DogKennel/Labrador.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Golden Retriver",
+                    "SubShop_id": "GT100",
+                    "SubShop_Price":"₹12,000",
+                    "SubShop_img": "../../../Image/DogKennel/GT.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Beagle",
+                    "SubShop_id": "Beagle100",
+                    "SubShop_Price":"₹25,000",
+                    "SubShop_img": "../../../Image/DogKennel/Beagle.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Huskey",
+                    "SubShop_id": "Huskey100",
+                    "SubShop_Price":"₹20,000",
+                    "SubShop_img": "../../../Image/DogKennel/Huskey.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Pug",
+                    "SubShop_id": "Pug100",
+                    "SubShop_Price":"₹7000",
+                    "SubShop_img": "../../../Image/DogKennel/pug.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                }
+            ]
+        },
+        {
+            "PetshopName": "Cats Kennel",
+            "Pet_Id": "Cat200",
+            "Pet_Desc": "Cats are connoisseurs of comfort",
+            "PetShop_sub": [
+                {
+                    "SubShop_name": "Persian",
+                    "SubShop_id": "Per200",
+                    "SubShop_Price":"₹22,000",
+                    "SubShop_img": "../../../Image/Catkennel/Persian.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Britsh Short Hair",
+                    "SubShop_id": "BSH200",
+                    "SubShop_Price":"₹15,000",
+                    "SubShop_img": "../../../Image/Catkennel/British.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Ragdoll",
+                    "SubShop_id": "Rafdoll200",
+                    "SubShop_Price":"₹30,000",
+                    "SubShop_img": "../../../Image/Catkennel/Ragdoll.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                },
+                {
+                    "SubShop_name": "Siamese",
+                    "SubShop_id": "Sia200",
+                    "SubShop_Price":"₹20,000",
+                    "SubShop_img": "../../../Image/Catkennel/Siameese.jpg",
+                    "SubShop_desc": "You Get best and healthy breed from our kennel"
+                }
+            ]
+        },
+        {
+            "PetshopName": "Birds Firm",
+            "Pet_Id": "Bird300",
+            "Pet_Desc": "The bird who dares to fall is the bird who learns to fly.",
+            "PetShop_sub": [
+                {
+                    "SubShop_name": "Java",
+                    "SubShop_id": "Java300",
+                    "Sub_Price":"₹500",
+                    "SubShop_img": "../../../Image/BirdsFirm/java.jpg",
+                    "SubShop_desc": "You can get healthy bird breed from our Firm"
+                },
+                {
+                    "SubShop_name": "Makau",
+                    "SubShop_id": "Makau300",
+                    "SubShop_Price":"₹8000",
+                    "SubShop_img": "../../../Image/BirdsFirm/Makau.jpg",
+                    "SubShop_desc": "You can get healthy bird breed from our Firm"
+                },
+                {
+                    "SubShop_name": "Love Birds",
+                    "SubShop_id": "LB300",
+                    "SubShop_Price":"₹400",
+                    "SubShop_img": "../../../Image/BirdsFirm/Love-birds.jpg",
+                    "SubShop_desc": "You can get healthy bird breed from our Firm"
+                },
+                {
+                    "SubShop_name": "Krakatua",
+                    "SubShop_id": "Krakatua300",
+                    "SubShop_Price":"₹10,000",
+                    "SubShop_img": "../../../Image/BirdsFirm/Krakatua.jpg",
+                    "SubShop_desc": "You can get healthy bird breed from our Firm"
+                }
+            ]
+        },
+        {
+            "PetshopName": "Fishes Firm",
+            "Pet_Id": "Fish400",
+            "Pet_Desc": "The bird who dares to fall is the bird who learns to fly.",
+            "PetShop_sub": [
+                {
+                    "SubShop_name": "Cory-Catfish",
+                    "SubShop_id": "CC400",
+                    "SubShop_Price":"₹100",
+                    "SubShop_img": "../../../Image/FishTanks/Cory-Catfish.jpg",
+                    "SubShop_desc": "You can get healthy fishes from our Firm"
+                },
+                {
+                    "SubShop_name": "Guppy",
+                    "SubShop_id": "Guppy400",
+                    "SubShop_Price":"₹20",
+                    "SubShop_img": "../../../Image/FishTanks/Guppy.jpg",
+                    "SubShop_desc": "You can get healthy fishes from our Firm"
+                },
+                {
+                    "SubShop_name": "Danio",
+                    "SubShop_id": "Danio400",
+                    "SubShop_Price":"₹150",
+                    "SubShop_img": "../../../Image/FishTanks/Danio.jpg",
+                    "SubShop_desc": "You can get healthy fishes from our Firm"
+                },
+                {
+                    "SubShop_name": "Blackmolly",
+                    "SubShop_id": "BM400",
+                    "SubShop_Price":"₹50",
+                    "SubShop_img": "../../../Image/FishTanks/black-molly.jpg",
+                    "SubShop_desc": "You can get healthy fishes from our Firm"
+                }
+            ]
+        }
+    ]
+}

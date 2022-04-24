@@ -1,0 +1,71 @@
+.banner-img{
+  height: 500px;
+}
+.heading{
+    text-align: center;
+    color: crimson;
+    text-size-adjust: 20px;
+    text-decoration: none;
+}
+.shop-by-pet{
+  margin-top: 10px;
+  color: crimson;
+  text-align: left;
+  text-size-adjust: 15px;
+}
+.card-img{
+  
+  padding: 20px;
+  margin-left: 60px;
+  border-color: #fff !important;
+}
+.card-section{
+  padding: 0px 20px;
+}
+.g-4{
+  margin: 50px;
+}
+.featured-brand{
+  margin-top: 10px;
+  color: crimson;
+  text-align: left;
+  text-size-adjust: 15px;
+}
+.banner{
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #ffffcc;
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 10px 10px;
+  margin-bottom: 60px;
+}
+.know-more{
+  color: black;
+  text-decoration: none;
+  background-color: #b30000;
+}
+.shop-online{
+  text-decoration: none;
+}
+.link-Pet{
+  text-decoration: none;
+}
+.med-button{
+  margin-left: 50px;
+  display: flex;
+  justify-content: center;
+}
+.pet-img{
+  height: 220px;
+}
+.product-img{
+  height: 220px;
+}
+.featured-product{
+  margin-right: 100px;
+  color:#b30000;
+  text-decoration: none;
+  justify-content: center;
+}

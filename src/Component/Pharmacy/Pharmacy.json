@@ -1,0 +1,148 @@
+{
+    "PetProduct": [
+        {
+            "PetName": "Dog_Medicine",
+            "Pet_ID": "Dog001",
+            "Pet_Img":"../../../Image/DogFace.jpg",
+            "Pet_Desc": "faithful animal",
+            "Pet_Sub": [
+                {
+                    "Pet_Med": "Apoquel 3.6mg",
+                    "Med_ID": "Allergy01",
+                    "Med_price": "₹200",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/DogsMed/apoquel.jpg"
+                },
+                {
+                    "Pet_Med": "ATOPICA 100mg",
+                    "Med_ID": "Allergy02",
+                    "Med_price": "₹500",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/DogsMed/atopica.jpg"
+                },
+                {
+                    "Pet_Med": "Trazodone 50mg",
+                    "Med_ID": "Anxity01",
+                    "Med_price": "₹100",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/DogsMed/trazodone.jpg"
+                },
+                {
+                    "Pet_Med": "Fluoxitine 15mg",
+                    "Med_ID": "Rashes01",
+                    "Med_price": "₹400",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/DogsMed/fluoxetine.png"
+                }
+            ]
+        },
+        {
+            "PetName": "Cat_Medicine",
+            "Pet_ID": "Cat101",
+            "Pet_Img":"../../../Image/catFace.jpg",
+            "Pet_Desc": "Pretiest Animal in The World",
+            "Pet_Sub": [
+                {
+                    "Pet_Med": "Atopica for cat 15mg",
+                    "Med_ID": "CatAllergy01",
+                    "Med_price": "₹200",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/CatMed/atopica.jpg"
+                },
+                {
+                    "Pet_Med": "Clavamox 62.5mg",
+                    "Med_ID": "Anti-Biotic001",
+                    "Med_price": "₹100",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/CatMed/clavamox.jpg"
+                },
+                {
+                    "Pet_Med": "Revolution plus for cat",
+                    "Med_ID": "Heartworm002",
+                    "Med_price": "₹500",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/CatMed/revolution-plus.jpg"
+                },
+                {
+                    "Pet_Med": "DepoMedrol 20,mg",
+                    "Med_ID": "Eye001",
+                    "Med_price": "₹200",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/CatMed/depomedrol.jpg"
+                }
+            ]
+        },
+        {
+            "PetName": "Birds_Medicine",
+            "Pet_ID": "Birds202",
+            "Pet_Img":"../../../Image/Bird.jpg",
+            "Pet_Desc": "Don't kill birds blindly, save them very kindly.",
+            "Pet_Sub": [
+                {
+                    "Pet_Med": "calcium premium suppliment",
+                    "Med_ID": "Bone001",
+                    "Med_price": "₹540",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/BirdMed/calcium.jpg"
+                },
+                {
+                    "Pet_Med": "Bird care harbal tonic",
+                    "Med_ID": "Diarrhea",
+                    "Med_price": "₹250",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/BirdMed/herbal-tonic.jpg"
+                },
+                {
+                    "Pet_Med": "Vibracin",
+                    "Med_ID": "Antibiotic",
+                    "Med_price": "₹50",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/BirdMed/vibracin.jpg"
+                },
+                {
+                    "Pet_Med": "Beaphor",
+                    "Med_ID": "For_Worm",
+                    "Med_price": "₹100",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/BirdMed/beaphor.png"
+                }
+            ]
+        },
+        {
+            "PetName": "Fishes_Medicine",
+            "Pet_ID": "Fish001",
+            "Pet_Img":"../../../Image/fish.jpg",
+            "Pet_Desc": "A Fish Aquarium can keep your room cool and pleasent",
+            "Pet_Sub": [
+                {
+                    "Pet_Med": "Paracedol",
+                    "Med_ID": "Anti_parasite",
+                    "Med_price": "₹100",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/FishMed/paracidol.jpg"
+                },
+                {
+                    "Pet_Med": "Esha-Exit",
+                    "Med_ID": "Containment-disease",
+                    "Med_price": "₹80",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/FishMed/Esha-exit.jpg"
+                },
+                {
+                    "Pet_Med": "Betta-cure",
+                    "Med_ID": "For_Aquarium",
+                    "Med_price": "₹300",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/FishMed/betta-cure.jpg"
+                },
+                {
+                    "Pet_Med": "Ridall",
+                    "Med_ID": "Anti_Itch",
+                    "Med_price": "₹80",
+                    "Med_desc": "Sign in and save 20% on your first order",
+                    "Med_Img": "../../../Image/FishMed/Ridall.jpg"
+                }
+            ]
+        }
+    ]
+}

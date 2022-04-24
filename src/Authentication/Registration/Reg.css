@@ -1,0 +1,25 @@
+.form-section-1{
+    background-color: ghostwhite;
+    padding-top: 20px;
+}
+.reg-form{
+    margin-left: 40%;
+    margin-top: 50px;
+    height: 300px;
+}
+/* .button-color{
+    margin-left: 80px;
+    font-weight: 900;
+    font-size: larger;
+    display: inline-block;
+    justify-content: center;
+} */
+.btn-reg{
+    margin-left: 80px;
+    font-weight: 900;
+    font-size: larger;
+    display: inline-block;
+    justify-content: center;
+    background-color: darkcyan;
+    color: brown;
+}

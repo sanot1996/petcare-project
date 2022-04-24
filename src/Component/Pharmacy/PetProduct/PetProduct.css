@@ -1,0 +1,16 @@
+.pet-product{
+    background-color: cornsilk;
+    /* margin-top: 20px; */
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.view-med{
+    color: #fff;
+    text-decoration: none;
+}
+.my-card{
+    /* background-color: red !important; */
+    height: 400px;
+   
+}

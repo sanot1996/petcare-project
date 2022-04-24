@@ -1,0 +1,25 @@
+.main-footer{
+    width: auto;
+    height: 380px;
+    background-color: #00b8e6;
+    padding-top: 40px;
+}
+.my-text{
+    list-style: none !important;
+}
+.pharma{
+    text-decoration: none;
+    color: black;
+}
+.quick-links{
+    margin-right: 120px;
+}
+.company{
+    padding-top: 40px;
+}
+.footer-icon{
+    font-size: 30px;
+}
+.my-text{
+    font-weight: 600;
+}
